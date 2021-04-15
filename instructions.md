@@ -34,7 +34,7 @@ This project shows how to use Amazon SageMaker to train a deep learning model th
 ### Run the Jupyter Notebook
 
 1. Click on `Open Jupyter`.
-1. Click on the `predictive_maintenance_workshop.ipynb` file to open the jupyter notebook.
+1. Click on `src` followed by `predictive_maintenance_workshop.ipynb` file to open the jupyter notebook.
 1. When prompted to select a Kernel choose `conda_python3`.
 1. On the last line in the first cell, paste your bucket name inside the quote characters.
 1. Each cell can be run by clicking the ‘Run’ button on the toolbar at the top.
