@@ -18,12 +18,6 @@ Follow the steps outlined in the `instructions.md` file under each directory to 
   * `titanic_exploration.ipynb`: Exploration and preparation of the Titanic dataset.
   * `titanic_logistic_regression.ipynb`: Trains the binary classifier model.
   * `instructions.md`: Contains instructions for the workshop.
-* `2_regression/`
-  * `entry_point/`
-    * `script.py`: Entry point script containing MXNet implementation for training the model.
-  * `data_exploration.ipynb`: Exploration of the turbofan data set.
-  * `predictive_maintenance_workshop.ipynb`: Trains and deploys the predictive maintenance model for batch transformation.
-  * `instructions.md`: Contains instructions for the workshop.
 
 
 ## License
