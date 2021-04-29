@@ -1,8 +1,7 @@
 # Machine Learning Lab
 
-This repository contains source code for a Machine Learning (ML) workshop using Amazon SageMaker. It is broken into two parts:
+This repository contains source code for a Machine Learning (ML) workshop using Amazon SageMaker. 
 * 1: Binary classification problem using the [Titanic survivor dataset](https://www.kaggle.com/hesh97/titanicdataset-traincsv)
-* 2: Regression problem of time-series data to build a predictive maintenance model using the [Nasa turbofan engine dataset](https://data.nasa.gov/dataset/Turbofan-engine-degradation-simulation-data-set/vrks-gjie)
 
 
 ## Steps
