@@ -6,8 +6,8 @@
 1. Choose `Notebooks` -> `Notebook instances` in the left hand pane.
 1. Click the `Create notebook instance` button.
 1. Fill in the `Notebook instance name` field.
-1. In the Permissions and encryption section click the `IAM role` dropdown and select `Create a new role`.
-1. Click `Create role`.
+1. In the Permissions and encryption section click the `IAM role` dropdown and select a role that has the form `AmazonSageMaker-ExecutionRole-XXXXXX`.
+1. If no such role already exisits then click `Create role` and create a new role.
 1. In the `Git repositories` section, click on the `Repository` dropdown and select `Clone a public Git repository to this notebook instance only`.
 1. In the `Git repository URL` field add: "https://github.com/iot-worx/machine-learning-lab.git".
 1. Click on `Create notebook instance`.
