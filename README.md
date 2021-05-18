@@ -6,7 +6,7 @@ This repository contains source code for a Machine Learning (ML) workshop using 
 
 ## Steps
 
-Follow the steps outlined in the `instructions.md` file under each directory to complete the lab.
+Follow the steps outlined in the `README.md` file under each exercise directory.
 
 
 ## Contents
@@ -18,7 +18,7 @@ Follow the steps outlined in the `instructions.md` file under each directory to 
   * `2_cleaning.ipynb`: Cleaning of the Titanic dataset.
   * `3_processing.ipynb`: Preprocessing of the Titanic dataset.
   * `4_training.ipynb`: Training the logistic regression model using the Titanic dataset.
-  * `instructions.md`: Contains instructions for the workshop.
+  * `README.md`: Contains instructions for the workshop.
 
 
 ## License
